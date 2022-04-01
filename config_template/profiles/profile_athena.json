@@ -1,0 +1,272 @@
+{
+  "created": "",
+  "updated": "",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "",
+  "profileId": "athena",
+  "version": "RyryFN",
+  "items": {
+      "AthenaDance:eid_dancemoves": {
+          "templateId": "AthenaDance:eid_dancemoves",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaGlider:defaultglider": {
+          "templateId": "AthenaGlider:defaultglider",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaPickaxe:defaultpickaxe": {
+          "templateId": "AthenaPickaxe:defaultpickaxe",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_009_Athena_Commando_M": {
+          "templateId": "AthenaCharacter:CID_009_Athena_Commando_M",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_010_Athena_Commando_M": {
+          "templateId": "AthenaCharacter:CID_010_Athena_Commando_M",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_011_Athena_Commando_M": {
+          "templateId": "AthenaCharacter:CID_011_Athena_Commando_M",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_012_Athena_Commando_M": {
+          "templateId": "AthenaCharacter:CID_012_Athena_Commando_M",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_013_Athena_Commando_F": {
+          "templateId": "AthenaCharacter:CID_013_Athena_Commando_F",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_014_Athena_Commando_F": {
+          "templateId": "AthenaCharacter:CID_014_Athena_Commando_F",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_015_Athena_Commando_F": {
+          "templateId": "AthenaCharacter:CID_015_Athena_Commando_F",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaCharacter:CID_016_Athena_Commando_F": {
+          "templateId": "AthenaCharacter:CID_016_Athena_Commando_F",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_001_bluesquire": {
+          "templateId": "AthenaBackpack:bid_001_bluesquire",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_002_royaleknight": {
+          "templateId": "AthenaBackpack:bid_002_royaleknight",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_003_redknight": {
+          "templateId": "AthenaBackpack:bid_003_redknight",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_004_blackknight": {
+          "templateId": "AthenaBackpack:bid_004_blackknight",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_005_raptor": {
+          "templateId": "AthenaBackpack:bid_005_raptor",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_006_skidude": {
+          "templateId": "AthenaBackpack:bid_006_skidude",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_007_skidude_usa": {
+          "templateId": "AthenaBackpack:bid_007_skidude_usa",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_008_skidude_can": {
+          "templateId": "AthenaBackpack:bid_008_skidude_can",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_009_skidude_gbr": {
+          "templateId": "AthenaBackpack:bid_009_skidude_gbr",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_010_skidude_fra": {
+          "templateId": "AthenaBackpack:bid_010_skidude_fra",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
+      },
+      "AthenaBackpack:bid_011_skidude_ger": {
+          "templateId": "AthenaBackpack:bid_011_skidude_ger",
+          "attributes": {
+              "max_level_bonus": 0,
+              "level": 1,
+              "item_seen": 1,
+              "xp": 0,
+              "variants": [],
+              "favorite": false
+          },
+          "quantity": 1
